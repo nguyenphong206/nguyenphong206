@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenphong206&theme=matrix&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenphong206&theme=solarized-light&row=1&column=6"/>
 </p>
 
 ---
