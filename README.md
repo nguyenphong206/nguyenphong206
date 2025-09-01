@@ -1,52 +1,62 @@
-<!-- Banner động -->
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm nguyenphong206</h1>
+<h3 align="center">💻 Programming is my life</h3>
+
+<!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Phong!+%F0%9F%91%8B;Fullstack+Developer+in+progress...;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Programming+is+my+life;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-# 👋 Xin chào, mình là Phong!
-
-🌱 Hiện tại mình đang học **PHP & Python**  
-💻 Mục tiêu: Trở thành **Fullstack Developer**  
-📫 Liên hệ:  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/)  
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@yourusername"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://tiktok.com/@yourusername"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Kỹ năng & Công nghệ
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+## 🚀 Skills
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,javascript,typescript,php,ruby,go,rust,kotlin,swift,scala,dart" /><br/>
+  <!-- Web & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,angular,nodejs,express,nextjs,laravel,django,flask,spring" /><br/>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,firebase,supabase" /><br/>
+  <!-- DevOps & Others -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,windows,androidstudio,vscode,idea,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong206&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphong206&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong206&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphong206&theme=tokyonight" height="160" />
 </p>
 
----
-
-## 🏆 Thành tựu GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenphong206&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphong206&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🐍 Biểu đồ đóng góp
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/nguyenphong206/nguyenphong206/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenphong206&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-✨ *Profile này được làm đẹp bằng README, cảm ơn bạn đã ghé thăm!* ✨
+## 🐍 Snake Contribution
+<p align="center">
+  <img src="https://github.com/nguyenphong206/nguyenphong206/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
