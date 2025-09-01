@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Skills (Hacker Edition)
+### 💻 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,py,cpp,c,cs,ruby,go,rust,dart,kotlin,swift,bash,mysql,postgresql,mongodb,redis,linux,git,github,vscode,react,nodejs,express,angular,vue,tailwind,bootstrap,laravel,django,flask,spring,flutter" />
 </p>
