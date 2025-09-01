@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong206&show_icons=true&theme=chartreuse-dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphong206&theme=chartreuse-dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphong206&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
