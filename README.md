@@ -39,11 +39,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nguyenphong206/nguyenphong206/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
 ---
 
 ### ⚡ Fun Facts
