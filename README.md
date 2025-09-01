@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong206&show_icons=true&theme=chartreuse-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong206&show_icons=true&theme=catppuccin_latte" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphong206&theme=graywhite" height="180"/>
 </p>
 
