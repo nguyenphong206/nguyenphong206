@@ -1,6 +1,6 @@
 ### 👋 Hello, I’m **nguyenphong206**
 💻 *Programming is my life*  
-🕶 Living in **dark mode**  
+🕶 Think twice, code once.
 ⚡ Passionate about **all programming languages**  
 
 ---
