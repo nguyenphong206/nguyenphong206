@@ -1,17 +1,3 @@
-<!-- Hacker Style GitHub Profile README -->
-
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Programming+is+my+life;Code+-+Sleep+-+Repeat;Debugging+is+an+art;Hack+the+Future+🚀" alt="Typing SVG" />
-</p>
-
-<!-- Hacker Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/OzaE1.gif" width="600"/>
-</p>
-
----
-
 ### 👋 Hello, I’m **nguyenphong206**
 💻 *Programming is my life*  
 🕶 Living in **dark mode**  
