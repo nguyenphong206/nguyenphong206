@@ -35,11 +35,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nguyenphong206&theme=solarized-light&row=1&column=6"/>
 </p>
 
----
-
----
-
-### ⚡ Fun Facts
-- ☕ Survives on **coffee and code**  
-- 🕹 Debugging with **3AM hacker vibes**  
-- 🚀 Dreaming of **hacking the future**  
